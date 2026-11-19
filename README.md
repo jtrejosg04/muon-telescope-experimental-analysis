@@ -9,8 +9,8 @@ The analysis includes geometric acceptance calculation, TDC/QDC quality cuts, li
 
 ## Structure
 
-- `25x25/analisis_25x25.ipynb`
-- `60x60/analisis_60x60.ipynb`
+- `25x25/analisis_flujo_muones_25x25.ipynb`
+- `60x60/analisis_flujo_muones_60x60.ipynb`
 
 ## Requirements
 
